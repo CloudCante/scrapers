@@ -1,0 +1,52 @@
+[
+  {
+    "name": "csrf_warema_cookie",
+    "value": "11a6bbc83d48d59896564bf54ddf9211",
+    "domain": "wareconn.com",
+    "path": "/",
+    "expires": 1752522219.250898,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "PHPSESSID",
+    "value": "6p8pqprfe2no0mfql03t9pkrld",
+    "domain": "wareconn.com",
+    "path": "/",
+    "expires": 1752606767.570856,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.1187424799.1752520371",
+    "domain": ".wareconn.com",
+    "path": "/",
+    "expires": 1787080371.055054,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_1K7LVQMGNG",
+    "value": "GS2.1.s1752520371$o1$g1$t1752520391$j40$l0$h946815579",
+    "domain": ".wareconn.com",
+    "path": "/",
+    "expires": 1787080391.534108,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "searchBox",
+    "value": "Expand",
+    "domain": "wareconn.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

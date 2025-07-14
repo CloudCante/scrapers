@@ -1,0 +1,16 @@
+[
+  {
+    "serial_number": "1320121016271",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-07 21:38:58"
+  },
+  {
+    "serial_number": "1320121016367",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-03-12 00:51:48"
+  }
+]

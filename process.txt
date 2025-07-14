@@ -1,0 +1,4 @@
+Step 1. Navigate to https://wareconn.com/r/Summary/pctls
+
+Step 2. Enter serial number in the sn box.
+
