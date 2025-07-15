@@ -1,0 +1,3502 @@
+[
+  {
+    "serial_number": "1322022063079",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-05 18:03:38"
+  },
+  {
+    "serial_number": "1322022077826",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-05 16:31:24"
+  },
+  {
+    "serial_number": "1322022078321",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-05-20 09:15:35"
+  },
+  {
+    "serial_number": "1322022078853",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-03-18 19:40:19"
+  },
+  {
+    "serial_number": "1322022078860",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-01 08:29:52"
+  },
+  {
+    "serial_number": "1322022078903",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-02-10 22:07:56"
+  },
+  {
+    "serial_number": "1322022079463",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-06 13:50:50"
+  },
+  {
+    "serial_number": "1322022079537",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-20 23:26:56"
+  },
+  {
+    "serial_number": "1322022079590",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-12 09:36:32"
+  },
+  {
+    "serial_number": "1322120054173",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-02 13:58:45"
+  },
+  {
+    "serial_number": "1322120054261",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-10 16:27:00"
+  },
+  {
+    "serial_number": "1322120054432",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-07 22:46:01"
+  },
+  {
+    "serial_number": "1322120054451",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-02 02:52:55"
+  },
+  {
+    "serial_number": "1322120054501",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-02 14:49:34"
+  },
+  {
+    "serial_number": "1322120054530",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-01-16 15:10:42"
+  },
+  {
+    "serial_number": "1322120054721",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-25 15:38:48"
+  },
+  {
+    "serial_number": "1322120054940",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-06 15:56:24"
+  },
+  {
+    "serial_number": "1322120054951",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-02-04 07:47:49"
+  },
+  {
+    "serial_number": "1322120054985",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-03-04 23:36:04"
+  },
+  {
+    "serial_number": "1322120055346",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-14 17:32:45"
+  },
+  {
+    "serial_number": "1322120055530",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-24 14:03:34"
+  },
+  {
+    "serial_number": "1322120055533",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-02 10:43:04"
+  },
+  {
+    "serial_number": "1322120055541",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-07 19:33:31"
+  },
+  {
+    "serial_number": "1322120055651",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-02 12:12:28"
+  },
+  {
+    "serial_number": "1322120055760",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-11 22:46:34"
+  },
+  {
+    "serial_number": "1322120055876",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-14 18:40:44"
+  },
+  {
+    "serial_number": "1322120056063",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-07 16:17:57"
+  },
+  {
+    "serial_number": "1322120056129",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-08 19:03:50"
+  },
+  {
+    "serial_number": "1322120056386",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-10 15:42:56"
+  },
+  {
+    "serial_number": "1322120056452",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-26 09:17:35"
+  },
+  {
+    "serial_number": "1322120065685",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-06-10 17:47:47"
+  },
+  {
+    "serial_number": "1322120065702",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-20 21:59:48"
+  },
+  {
+    "serial_number": "1322120065732",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-08 00:20:31"
+  },
+  {
+    "serial_number": "1322120065823",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-23 16:52:41"
+  },
+  {
+    "serial_number": "1322120065944",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-25 19:05:01"
+  },
+  {
+    "serial_number": "1322120066041",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-09 14:11:29"
+  },
+  {
+    "serial_number": "1322120066053",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-10 15:04:30"
+  },
+  {
+    "serial_number": "1322120066148",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-01-30 07:24:13"
+  },
+  {
+    "serial_number": "1322120066399",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-27 21:11:16"
+  },
+  {
+    "serial_number": "1322120066410",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-25 01:38:06"
+  },
+  {
+    "serial_number": "1322120066600",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-24 16:25:37"
+  },
+  {
+    "serial_number": "1322120066820",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-30 08:47:36"
+  },
+  {
+    "serial_number": "1322120076146",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-09 13:08:15"
+  },
+  {
+    "serial_number": "1322120076367",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-05-06 13:38:22"
+  },
+  {
+    "serial_number": "1322120076660",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-06 18:42:55"
+  },
+  {
+    "serial_number": "1322120076768",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-30 19:22:26"
+  },
+  {
+    "serial_number": "1322120076902",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-24 14:26:35"
+  },
+  {
+    "serial_number": "1322120077065",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-07-03 21:54:44"
+  },
+  {
+    "serial_number": "1322120077314",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-10 17:01:42"
+  },
+  {
+    "serial_number": "1322120077330",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-19 20:02:26"
+  },
+  {
+    "serial_number": "1322120077614",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-19 14:36:47"
+  },
+  {
+    "serial_number": "1322120077700",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-20 22:12:20"
+  },
+  {
+    "serial_number": "1322120077762",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-05 13:21:37"
+  },
+  {
+    "serial_number": "1322120077871",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-20 20:01:57"
+  },
+  {
+    "serial_number": "1322120078296",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-05-20 19:32:17"
+  },
+  {
+    "serial_number": "1322120078724",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-02-11 14:54:15"
+  },
+  {
+    "serial_number": "1322120078860",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-04-14 16:19:32"
+  },
+  {
+    "serial_number": "1322120078870",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-05 21:09:09"
+  },
+  {
+    "serial_number": "1322120078938",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-01-23 09:15:01"
+  },
+  {
+    "serial_number": "1322120079061",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-27 16:00:41"
+  },
+  {
+    "serial_number": "1322120079192",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-07-10 15:01:27"
+  },
+  {
+    "serial_number": "1322120079379",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-09 14:46:52"
+  },
+  {
+    "serial_number": "1322121009097",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-22 13:29:31"
+  },
+  {
+    "serial_number": "1322121009594",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-18 13:34:27"
+  },
+  {
+    "serial_number": "1322121010412",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-15 08:47:31"
+  },
+  {
+    "serial_number": "1322121015333",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-07 13:29:07"
+  },
+  {
+    "serial_number": "1322121037708",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-25 15:33:06"
+  },
+  {
+    "serial_number": "1322122012552",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-07-09 21:16:43"
+  },
+  {
+    "serial_number": "1322122012760",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-28 17:36:48"
+  },
+  {
+    "serial_number": "1322122012774",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-17 20:56:01"
+  },
+  {
+    "serial_number": "1322122013227",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-28 17:36:15"
+  },
+  {
+    "serial_number": "1322122013599",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-29 05:24:39"
+  },
+  {
+    "serial_number": "1322122013736",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-03-25 20:01:08"
+  },
+  {
+    "serial_number": "1322122013911",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-14 22:49:17"
+  },
+  {
+    "serial_number": "1322122013970",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-17 08:27:07"
+  },
+  {
+    "serial_number": "1322122035325",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-03 13:34:35"
+  },
+  {
+    "serial_number": "1322122035342",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-12 15:24:36"
+  },
+  {
+    "serial_number": "1322122035394",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-26 09:40:16"
+  },
+  {
+    "serial_number": "1322122035416",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-17 11:49:32"
+  },
+  {
+    "serial_number": "1322122035449",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-03-25 18:12:13"
+  },
+  {
+    "serial_number": "1322122035463",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-10 20:39:02"
+  },
+  {
+    "serial_number": "1322122035596",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-16 07:43:23"
+  },
+  {
+    "serial_number": "1322122035637",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-05-02 10:16:42"
+  },
+  {
+    "serial_number": "1322122035652",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-13 18:57:31"
+  },
+  {
+    "serial_number": "1322122035882",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-27 22:31:26"
+  },
+  {
+    "serial_number": "1322122035914",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-30 22:00:02"
+  },
+  {
+    "serial_number": "1322122035994",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-11 09:03:51"
+  },
+  {
+    "serial_number": "1322122036181",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-08 10:01:17"
+  },
+  {
+    "serial_number": "1322122036218",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-09 23:45:09"
+  },
+  {
+    "serial_number": "1322122036359",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-07 12:53:12"
+  },
+  {
+    "serial_number": "1322122036398",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-23 14:05:35"
+  },
+  {
+    "serial_number": "1322122036447",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-03-21 17:57:58"
+  },
+  {
+    "serial_number": "1322122036545",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-07-08 09:32:21"
+  },
+  {
+    "serial_number": "1322122036564",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-23 17:49:25"
+  },
+  {
+    "serial_number": "1322122036574",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-07 16:04:24"
+  },
+  {
+    "serial_number": "1322122036590",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-17 07:38:03"
+  },
+  {
+    "serial_number": "1322122036643",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-21 11:33:33"
+  },
+  {
+    "serial_number": "1322122036956",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-28 18:28:23"
+  },
+  {
+    "serial_number": "1322122037065",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-18 20:35:19"
+  },
+  {
+    "serial_number": "1322122037140",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-05 09:03:29"
+  },
+  {
+    "serial_number": "1322122037165",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-19 17:26:05"
+  },
+  {
+    "serial_number": "1322122037346",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-17 08:07:33"
+  },
+  {
+    "serial_number": "1322122037390",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-03 11:37:29"
+  },
+  {
+    "serial_number": "1322122037455",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-26 09:06:50"
+  },
+  {
+    "serial_number": "1322122037458",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-02 14:11:34"
+  },
+  {
+    "serial_number": "1322122037558",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-05 19:02:22"
+  },
+  {
+    "serial_number": "1322122037807",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-03-21 16:48:29"
+  },
+  {
+    "serial_number": "1322122038034",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-04-30 08:13:23"
+  },
+  {
+    "serial_number": "1322122038222",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-08 23:03:35"
+  },
+  {
+    "serial_number": "1322220009112",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-19 18:02:39"
+  },
+  {
+    "serial_number": "1322220009206",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-09 03:10:07"
+  },
+  {
+    "serial_number": "1322220009221",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-07-02 00:07:13"
+  },
+  {
+    "serial_number": "1322220009302",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-04-23 13:15:12"
+  },
+  {
+    "serial_number": "1322220009333",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-02 11:30:19"
+  },
+  {
+    "serial_number": "1322220009383",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-28 11:20:25"
+  },
+  {
+    "serial_number": "1322220009552",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-05-16 17:34:59"
+  },
+  {
+    "serial_number": "1322220009897",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-24 09:35:24"
+  },
+  {
+    "serial_number": "1322220010063",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-02-03 23:21:19"
+  },
+  {
+    "serial_number": "1322220010539",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-10 08:16:37"
+  },
+  {
+    "serial_number": "1322220010657",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2024-12-04 07:46:28"
+  },
+  {
+    "serial_number": "1322220010794",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-04-14 22:42:18"
+  },
+  {
+    "serial_number": "1322220010834",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-05-28 01:08:12"
+  },
+  {
+    "serial_number": "1322220010947",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-14 23:03:32"
+  },
+  {
+    "serial_number": "1322220031617",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-07-03 12:37:17"
+  },
+  {
+    "serial_number": "1322220031709",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-27 15:33:13"
+  },
+  {
+    "serial_number": "1322220031935",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-26 21:24:57"
+  },
+  {
+    "serial_number": "1322220031954",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-27 18:56:44"
+  },
+  {
+    "serial_number": "1322220032185",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-04-10 15:02:17"
+  },
+  {
+    "serial_number": "1322220032353",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-05 14:23:34"
+  },
+  {
+    "serial_number": "1322220032445",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-04-18 13:13:32"
+  },
+  {
+    "serial_number": "1322220033015",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-07 23:11:55"
+  },
+  {
+    "serial_number": "1322220033464",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2024-11-08 15:28:58"
+  },
+  {
+    "serial_number": "1322220033923",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-17 14:06:40"
+  },
+  {
+    "serial_number": "1322220034183",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-28 01:57:15"
+  },
+  {
+    "serial_number": "1322220034277",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-25 22:51:01"
+  },
+  {
+    "serial_number": "1322220034312",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-27 07:56:36"
+  },
+  {
+    "serial_number": "1322220034564",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-07-03 08:25:28"
+  },
+  {
+    "serial_number": "1322220075211",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-18 22:55:21"
+  },
+  {
+    "serial_number": "1322220075486",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-07 12:03:40"
+  },
+  {
+    "serial_number": "1322220076012",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-02-06 03:32:36"
+  },
+  {
+    "serial_number": "1322220076029",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-22 18:13:05"
+  },
+  {
+    "serial_number": "1322220076032",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-06 08:13:19"
+  },
+  {
+    "serial_number": "1322220076272",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-04 12:44:38"
+  },
+  {
+    "serial_number": "1322220076545",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-27 21:10:17"
+  },
+  {
+    "serial_number": "1322220076950",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-07-07 19:05:49"
+  },
+  {
+    "serial_number": "1322220076996",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-03-13 09:25:22"
+  },
+  {
+    "serial_number": "1322220077090",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-18 12:46:53"
+  },
+  {
+    "serial_number": "1322220077198",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-08 15:37:11"
+  },
+  {
+    "serial_number": "1322220077212",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-04-15 12:41:00"
+  },
+  {
+    "serial_number": "1322220077259",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-17 15:22:58"
+  },
+  {
+    "serial_number": "1322220077303",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-21 18:45:32"
+  },
+  {
+    "serial_number": "1322220077527",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-26 08:36:57"
+  },
+  {
+    "serial_number": "1322220077543",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-05-27 10:01:56"
+  },
+  {
+    "serial_number": "1322220077747",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-12 15:29:11"
+  },
+  {
+    "serial_number": "1322220078235",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-26 17:04:46"
+  },
+  {
+    "serial_number": "1322220078239",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-19 20:50:43"
+  },
+  {
+    "serial_number": "1322220078390",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-02-18 07:13:56"
+  },
+  {
+    "serial_number": "1322220078397",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-19 19:08:35"
+  },
+  {
+    "serial_number": "1322220078408",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-04 15:58:54"
+  },
+  {
+    "serial_number": "1322220078423",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-02-06 21:46:45"
+  },
+  {
+    "serial_number": "1322220078654",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-13 15:08:54"
+  },
+  {
+    "serial_number": "1322220078695",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-13 20:35:45"
+  },
+  {
+    "serial_number": "1322220078728",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-07-07 13:27:47"
+  },
+  {
+    "serial_number": "1322221060551",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-03 08:26:15"
+  },
+  {
+    "serial_number": "1322221069054",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-04-30 21:20:23"
+  },
+  {
+    "serial_number": "1322222080544",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-05 11:56:56"
+  },
+  {
+    "serial_number": "1322222080876",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-03-21 08:09:38"
+  },
+  {
+    "serial_number": "1322222081079",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-31 12:27:27"
+  },
+  {
+    "serial_number": "1322222081945",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-23 19:41:28"
+  },
+  {
+    "serial_number": "1322222083133",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 18:58:37"
+  },
+  {
+    "serial_number": "1322222083683",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 13:52:11"
+  },
+  {
+    "serial_number": "1322222084847",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-31 23:23:46"
+  },
+  {
+    "serial_number": "1322222123675",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-23 11:32:33"
+  },
+  {
+    "serial_number": "1322222123779",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2024-11-05 08:36:41"
+  },
+  {
+    "serial_number": "1322222123928",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-22 23:01:12"
+  },
+  {
+    "serial_number": "1322222123938",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-26 18:56:12"
+  },
+  {
+    "serial_number": "1322222123962",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-01 18:06:53"
+  },
+  {
+    "serial_number": "1322222124000",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-17 15:42:51"
+  },
+  {
+    "serial_number": "1322222124243",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-31 09:09:57"
+  },
+  {
+    "serial_number": "1322222124263",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-09 18:34:07"
+  },
+  {
+    "serial_number": "1322222124266",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-13 12:16:23"
+  },
+  {
+    "serial_number": "1322222124416",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-04-10 16:30:47"
+  },
+  {
+    "serial_number": "1322222124425",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-28 22:32:50"
+  },
+  {
+    "serial_number": "1322222124452",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-05 17:16:03"
+  },
+  {
+    "serial_number": "1322222124543",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-10 23:13:50"
+  },
+  {
+    "serial_number": "1322222124568",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-23 15:08:22"
+  },
+  {
+    "serial_number": "1322222124681",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-07 14:53:37"
+  },
+  {
+    "serial_number": "1322222124764",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-04-30 08:16:02"
+  },
+  {
+    "serial_number": "1322222124944",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-27 11:09:23"
+  },
+  {
+    "serial_number": "1322222125106",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-16 14:22:35"
+  },
+  {
+    "serial_number": "1322222125150",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-08 17:43:09"
+  },
+  {
+    "serial_number": "1322222125200",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-25 08:09:21"
+  },
+  {
+    "serial_number": "1322222125233",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-03-22 13:07:02"
+  },
+  {
+    "serial_number": "1322222125338",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-02 14:12:12"
+  },
+  {
+    "serial_number": "1322222125339",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-25 20:44:54"
+  },
+  {
+    "serial_number": "1322222125590",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-14 09:39:56"
+  },
+  {
+    "serial_number": "1322222125594",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-26 15:50:23"
+  },
+  {
+    "serial_number": "1322222129931",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-03-13 14:00:28"
+  },
+  {
+    "serial_number": "1322222130050",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-19 17:06:21"
+  },
+  {
+    "serial_number": "1322222130101",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-15 08:23:23"
+  },
+  {
+    "serial_number": "1322222130163",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-30 21:13:35"
+  },
+  {
+    "serial_number": "1322222130266",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-25 13:46:08"
+  },
+  {
+    "serial_number": "1322222130273",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-03-20 20:55:33"
+  },
+  {
+    "serial_number": "1322222130299",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-13 13:33:17"
+  },
+  {
+    "serial_number": "1322222130420",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-11 09:17:06"
+  },
+  {
+    "serial_number": "1322222130446",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-17 21:53:31"
+  },
+  {
+    "serial_number": "1322222130622",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-17 09:34:57"
+  },
+  {
+    "serial_number": "1322222130681",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-30 08:42:32"
+  },
+  {
+    "serial_number": "1322222130810",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-02 19:18:26"
+  },
+  {
+    "serial_number": "1322222130877",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-03-14 21:59:30"
+  },
+  {
+    "serial_number": "1322222130917",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-12 23:01:49"
+  },
+  {
+    "serial_number": "1322222130933",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-28 11:38:00"
+  },
+  {
+    "serial_number": "1322222130969",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-27 16:17:43"
+  },
+  {
+    "serial_number": "1322222131200",
+    "part_number": "692-2G510-0200-0R0",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-16 19:32:40"
+  },
+  {
+    "serial_number": "1322222154442",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-02 13:27:14"
+  },
+  {
+    "serial_number": "1322222154983",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-03-20 21:28:20"
+  },
+  {
+    "serial_number": "1322222155113",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-08 19:18:07"
+  },
+  {
+    "serial_number": "1322222155383",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 18:48:07"
+  },
+  {
+    "serial_number": "1322222155883",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 17:39:22"
+  },
+  {
+    "serial_number": "1322222156017",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-10 09:37:29"
+  },
+  {
+    "serial_number": "1322222156429",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-03-18 08:51:55"
+  },
+  {
+    "serial_number": "1322222156492",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-20 15:10:37"
+  },
+  {
+    "serial_number": "1322222156817",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-06 13:41:36"
+  },
+  {
+    "serial_number": "1322222158039",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-02-03 08:44:14"
+  },
+  {
+    "serial_number": "1322222158335",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-01-03 23:03:46"
+  },
+  {
+    "serial_number": "1322222174835",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-14 02:00:39"
+  },
+  {
+    "serial_number": "1322222175285",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-03-19 23:24:34"
+  },
+  {
+    "serial_number": "1322222175542",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 17:52:55"
+  },
+  {
+    "serial_number": "1322222175629",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-22 19:25:19"
+  },
+  {
+    "serial_number": "1322222175682",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 18:31:26"
+  },
+  {
+    "serial_number": "1322222175845",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 17:53:24"
+  },
+  {
+    "serial_number": "1322320013801",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-05 08:40:45"
+  },
+  {
+    "serial_number": "1322320014004",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-05 19:41:29"
+  },
+  {
+    "serial_number": "1322320014084",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-01-29 06:36:09"
+  },
+  {
+    "serial_number": "1322320030081",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-26 10:30:31"
+  },
+  {
+    "serial_number": "1322320030099",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-05-21 14:31:13"
+  },
+  {
+    "serial_number": "1322320030115",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-07 12:44:39"
+  },
+  {
+    "serial_number": "1322320030183",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-02 11:38:45"
+  },
+  {
+    "serial_number": "1322320030218",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-14 20:20:37"
+  },
+  {
+    "serial_number": "1322320030403",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-06-04 10:35:19"
+  },
+  {
+    "serial_number": "1322320030450",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-02-06 19:50:57"
+  },
+  {
+    "serial_number": "1322320030504",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-06-05 09:54:37"
+  },
+  {
+    "serial_number": "1322320030541",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-25 01:50:10"
+  },
+  {
+    "serial_number": "1322320030572",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-06 10:46:10"
+  },
+  {
+    "serial_number": "1322320030574",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-04-10 17:28:27"
+  },
+  {
+    "serial_number": "1322320030657",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-28 23:32:15"
+  },
+  {
+    "serial_number": "1322320030749",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-30 15:29:35"
+  },
+  {
+    "serial_number": "1322320030759",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-04 04:03:09"
+  },
+  {
+    "serial_number": "1322320030781",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-02-06 23:02:00"
+  },
+  {
+    "serial_number": "1322320030786",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-08 23:37:22"
+  },
+  {
+    "serial_number": "1322320031234",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-22 20:16:49"
+  },
+  {
+    "serial_number": "1322322010322",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-09 14:15:29"
+  },
+  {
+    "serial_number": "1322322011771",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-04 12:46:17"
+  },
+  {
+    "serial_number": "1322322012028",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-24 08:13:07"
+  },
+  {
+    "serial_number": "1322322012561",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-05 10:34:10"
+  },
+  {
+    "serial_number": "1322322039095",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-04 13:52:06"
+  },
+  {
+    "serial_number": "1322322046504",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-08 19:17:14"
+  },
+  {
+    "serial_number": "1322322046534",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-04 00:55:54"
+  },
+  {
+    "serial_number": "1322322046634",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2024-10-11 16:23:50"
+  },
+  {
+    "serial_number": "1322322046658",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-07-03 15:16:57"
+  },
+  {
+    "serial_number": "1322420052329",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-05-22 10:55:27"
+  },
+  {
+    "serial_number": "1322420052610",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-01-16 09:13:27"
+  },
+  {
+    "serial_number": "1322420052750",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-07-01 19:48:36"
+  },
+  {
+    "serial_number": "1322420052837",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-09 08:49:11"
+  },
+  {
+    "serial_number": "1322420053044",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-02 15:17:22"
+  },
+  {
+    "serial_number": "1322420053121",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-14 19:17:09"
+  },
+  {
+    "serial_number": "1322420053188",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-04-14 18:10:33"
+  },
+  {
+    "serial_number": "1322420053311",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-07 15:42:08"
+  },
+  {
+    "serial_number": "1322420053504",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-27 13:22:48"
+  },
+  {
+    "serial_number": "1322420053619",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-03 01:18:53"
+  },
+  {
+    "serial_number": "1322420053849",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-14 23:51:27"
+  },
+  {
+    "serial_number": "1322420058932",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-09 00:07:13"
+  },
+  {
+    "serial_number": "1322420058970",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-25 11:05:47"
+  },
+  {
+    "serial_number": "1322420058991",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-25 11:03:40"
+  },
+  {
+    "serial_number": "1322420059217",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-21 14:32:59"
+  },
+  {
+    "serial_number": "1322420059313",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-04-15 10:35:14"
+  },
+  {
+    "serial_number": "1322420059700",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-19 17:38:47"
+  },
+  {
+    "serial_number": "1322420059871",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-25 23:48:40"
+  },
+  {
+    "serial_number": "1322420060082",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-26 13:15:31"
+  },
+  {
+    "serial_number": "1322420060113",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-08 18:51:31"
+  },
+  {
+    "serial_number": "1322420060444",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-30 12:03:14"
+  },
+  {
+    "serial_number": "1322420060755",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-05 09:23:06"
+  },
+  {
+    "serial_number": "1322420060792",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-29 01:02:34"
+  },
+  {
+    "serial_number": "1322420060893",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-14 03:21:21"
+  },
+  {
+    "serial_number": "1322420061239",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 19:51:46"
+  },
+  {
+    "serial_number": "1322420061421",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-01-23 16:24:29"
+  },
+  {
+    "serial_number": "1322420061467",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-05-27 07:46:16"
+  },
+  {
+    "serial_number": "1322420088191",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-01-03 18:38:09"
+  },
+  {
+    "serial_number": "1322420088681",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-14 21:02:44"
+  },
+  {
+    "serial_number": "1322420088845",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-07 17:49:00"
+  },
+  {
+    "serial_number": "1322420089227",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-14 20:55:03"
+  },
+  {
+    "serial_number": "1322420089334",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-10 21:45:53"
+  },
+  {
+    "serial_number": "1322420089579",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-04-18 17:05:00"
+  },
+  {
+    "serial_number": "1322420089745",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-09 16:38:38"
+  },
+  {
+    "serial_number": "1322420090141",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-02 00:07:01"
+  },
+  {
+    "serial_number": "1322420090299",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-25 22:48:49"
+  },
+  {
+    "serial_number": "1322420090338",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-26 09:55:57"
+  },
+  {
+    "serial_number": "1322420090364",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-06 23:40:56"
+  },
+  {
+    "serial_number": "1322420090736",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-15 12:55:27"
+  },
+  {
+    "serial_number": "1322420090749",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-25 10:50:47"
+  },
+  {
+    "serial_number": "1322420090786",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-04-14 12:03:04"
+  },
+  {
+    "serial_number": "1322420090970",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-21 19:29:52"
+  },
+  {
+    "serial_number": "1322420091105",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-18 15:24:53"
+  },
+  {
+    "serial_number": "1322420097260",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-07 08:10:12"
+  },
+  {
+    "serial_number": "1322420097482",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-24 12:22:44"
+  },
+  {
+    "serial_number": "1322420097684",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-01-30 16:16:50"
+  },
+  {
+    "serial_number": "1322420097685",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-07 20:48:41"
+  },
+  {
+    "serial_number": "1322420097876",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-07-03 10:05:41"
+  },
+  {
+    "serial_number": "1322420097933",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-10 22:33:41"
+  },
+  {
+    "serial_number": "1322420097944",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-07-09 11:27:48"
+  },
+  {
+    "serial_number": "1322420098073",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-05-28 18:58:09"
+  },
+  {
+    "serial_number": "1322420098241",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-20 16:14:09"
+  },
+  {
+    "serial_number": "1322420098260",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-06-27 10:09:20"
+  },
+  {
+    "serial_number": "1322420098284",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-09 17:30:45"
+  },
+  {
+    "serial_number": "1322420098963",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-08 08:16:57"
+  },
+  {
+    "serial_number": "1322420099001",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-09 13:58:55"
+  },
+  {
+    "serial_number": "1322420099014",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-23 14:15:29"
+  },
+  {
+    "serial_number": "1322420099027",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-01-24 11:46:06"
+  },
+  {
+    "serial_number": "1322420099100",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-23 13:37:15"
+  },
+  {
+    "serial_number": "1322420099195",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-30 16:21:17"
+  },
+  {
+    "serial_number": "1322420099248",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-25 08:27:03"
+  },
+  {
+    "serial_number": "1322422004835",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-13 07:52:17"
+  },
+  {
+    "serial_number": "1322422005452",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-17 21:22:46"
+  },
+  {
+    "serial_number": "1322422005582",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 14:01:19"
+  },
+  {
+    "serial_number": "1322422007376",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-03-27 18:55:55"
+  },
+  {
+    "serial_number": "1322422065269",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 16:52:15"
+  },
+  {
+    "serial_number": "1322422067114",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-29 23:22:57"
+  },
+  {
+    "serial_number": "1322422067392",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-08 08:44:10"
+  },
+  {
+    "serial_number": "1322520104755",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-16 15:01:42"
+  },
+  {
+    "serial_number": "1322520104986",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-17 08:21:13"
+  },
+  {
+    "serial_number": "1322520105321",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-24 19:07:59"
+  },
+  {
+    "serial_number": "1322520105370",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-25 14:58:25"
+  },
+  {
+    "serial_number": "1322520105462",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-04-08 22:15:26"
+  },
+  {
+    "serial_number": "1322520105782",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-30 12:38:19"
+  },
+  {
+    "serial_number": "1322520105934",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-22 15:03:51"
+  },
+  {
+    "serial_number": "1322520106141",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-27 23:31:28"
+  },
+  {
+    "serial_number": "1322520106197",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-07-14 11:41:36"
+  },
+  {
+    "serial_number": "1322520106226",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-05-16 13:13:26"
+  },
+  {
+    "serial_number": "1322521004593",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 17:54:24"
+  },
+  {
+    "serial_number": "1322521010275",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-14 21:14:19"
+  },
+  {
+    "serial_number": "1322521010429",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-03-14 10:54:33"
+  },
+  {
+    "serial_number": "1322521010670",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-01-29 09:21:03"
+  },
+  {
+    "serial_number": "1322521010835",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-01-28 22:46:01"
+  },
+  {
+    "serial_number": "1322522008111",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FI_REPAIR",
+    "workstation_prefix": "FI",
+    "history_station_start_time": "2025-06-02 11:10:38"
+  },
+  {
+    "serial_number": "1322522008752",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-06-12 13:50:59"
+  },
+  {
+    "serial_number": "1322522009808",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-12 12:57:21"
+  },
+  {
+    "serial_number": "1322522020277",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-05 09:36:05"
+  },
+  {
+    "serial_number": "1322522021156",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-06 19:24:18"
+  },
+  {
+    "serial_number": "1322522021366",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-02-24 17:49:27"
+  },
+  {
+    "serial_number": "1322522022585",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-06 14:40:51"
+  },
+  {
+    "serial_number": "1322522039262",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 16:49:10"
+  },
+  {
+    "serial_number": "1322522039354",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-04-14 17:27:34"
+  },
+  {
+    "serial_number": "1322522039951",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-27 08:59:15"
+  },
+  {
+    "serial_number": "1322522056109",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-07-09 20:22:45"
+  },
+  {
+    "serial_number": "1322522056377",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-06-05 23:13:47"
+  },
+  {
+    "serial_number": "1322522056895",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-03 20:26:38"
+  },
+  {
+    "serial_number": "1322522057014",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-03-28 00:20:22"
+  },
+  {
+    "serial_number": "1322522061992",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-05-20 20:15:15"
+  },
+  {
+    "serial_number": "1322522063225",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-03-21 10:17:15"
+  },
+  {
+    "serial_number": "1322620011003",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-02-03 08:38:50"
+  },
+  {
+    "serial_number": "1322620011077",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-02-04 23:26:26"
+  },
+  {
+    "serial_number": "1322620011226",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-06-17 08:07:40"
+  },
+  {
+    "serial_number": "1322620011409",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-07-14 14:11:15"
+  },
+  {
+    "serial_number": "1322620011428",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-16 11:47:54"
+  },
+  {
+    "serial_number": "1322620011508",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-01-17 14:06:06"
+  },
+  {
+    "serial_number": "1322620012050",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-02 01:14:36"
+  },
+  {
+    "serial_number": "1322620012055",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-08 14:30:51"
+  },
+  {
+    "serial_number": "1322620036986",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-24 04:46:01"
+  },
+  {
+    "serial_number": "1322620037085",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-23 13:55:55"
+  },
+  {
+    "serial_number": "1322620037298",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-27 08:14:59"
+  },
+  {
+    "serial_number": "1322620037376",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-10 16:52:50"
+  },
+  {
+    "serial_number": "1322620037378",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-29 03:36:46"
+  },
+  {
+    "serial_number": "1322620037451",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-21 09:49:53"
+  },
+  {
+    "serial_number": "1322620037523",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-11 12:36:01"
+  },
+  {
+    "serial_number": "1322620037525",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-21 02:38:24"
+  },
+  {
+    "serial_number": "1322620037538",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-15 21:37:29"
+  },
+  {
+    "serial_number": "1322620037636",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-22 16:43:26"
+  },
+  {
+    "serial_number": "1322620037651",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-02-05 15:40:31"
+  },
+  {
+    "serial_number": "1322620037658",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-25 07:55:52"
+  },
+  {
+    "serial_number": "1322620037666",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-02-03 23:22:54"
+  },
+  {
+    "serial_number": "1322620037812",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-01 22:47:22"
+  },
+  {
+    "serial_number": "1322620038019",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-18 16:57:26"
+  },
+  {
+    "serial_number": "1322620038056",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-09 17:43:15"
+  },
+  {
+    "serial_number": "1322620038409",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-02 02:06:44"
+  },
+  {
+    "serial_number": "1322620038783",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-06 13:48:52"
+  },
+  {
+    "serial_number": "1322620038932",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-04 16:36:57"
+  },
+  {
+    "serial_number": "1322620039053",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-29 00:12:18"
+  },
+  {
+    "serial_number": "1322620039085",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-30 17:13:37"
+  },
+  {
+    "serial_number": "1322620039374",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-11 02:04:30"
+  },
+  {
+    "serial_number": "1322620039380",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-22 17:58:59"
+  },
+  {
+    "serial_number": "1322620039574",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-04 08:34:57"
+  },
+  {
+    "serial_number": "1322620039591",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-11 21:33:17"
+  },
+  {
+    "serial_number": "1322620039751",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-10 10:36:17"
+  },
+  {
+    "serial_number": "1322620039825",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-02-04 23:45:18"
+  },
+  {
+    "serial_number": "1322620039896",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-03 13:05:23"
+  },
+  {
+    "serial_number": "1322620040030",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-26 18:06:26"
+  },
+  {
+    "serial_number": "1322620040208",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-26 11:56:16"
+  },
+  {
+    "serial_number": "1322620040437",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-24 19:10:20"
+  },
+  {
+    "serial_number": "1322620076976",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-19 20:29:32"
+  },
+  {
+    "serial_number": "1322620077040",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-20 17:58:57"
+  },
+  {
+    "serial_number": "1322620077307",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-26 15:06:17"
+  },
+  {
+    "serial_number": "1322620077451",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-06 19:40:01"
+  },
+  {
+    "serial_number": "1322620077541",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-15 13:57:18"
+  },
+  {
+    "serial_number": "1322620077572",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-24 16:46:24"
+  },
+  {
+    "serial_number": "1322620077604",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-15 17:01:30"
+  },
+  {
+    "serial_number": "1322620077621",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-23 20:04:53"
+  },
+  {
+    "serial_number": "1322620077744",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-14 12:14:56"
+  },
+  {
+    "serial_number": "1322620077822",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-06-27 08:30:14"
+  },
+  {
+    "serial_number": "1322620077837",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-12 21:52:20"
+  },
+  {
+    "serial_number": "1322620077845",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-10 08:34:14"
+  },
+  {
+    "serial_number": "1322620077932",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-27 09:14:23"
+  },
+  {
+    "serial_number": "1322620078133",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-07-01 15:39:42"
+  },
+  {
+    "serial_number": "1322620078227",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-08 18:06:16"
+  },
+  {
+    "serial_number": "1322620078264",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-02 09:40:06"
+  },
+  {
+    "serial_number": "1322620078290",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-03-15 02:52:47"
+  },
+  {
+    "serial_number": "1322620078481",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-27 18:06:25"
+  },
+  {
+    "serial_number": "1322620078554",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-06 11:34:03"
+  },
+  {
+    "serial_number": "1322620078559",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-06-26 16:39:57"
+  },
+  {
+    "serial_number": "1322620078731",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-20 17:05:01"
+  },
+  {
+    "serial_number": "1322620078791",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-07 19:25:39"
+  },
+  {
+    "serial_number": "1322620093935",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BIT_REPAIR",
+    "workstation_prefix": "BIT",
+    "history_station_start_time": "2025-04-10 17:00:53"
+  },
+  {
+    "serial_number": "1322620094147",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-03 20:03:55"
+  },
+  {
+    "serial_number": "1322620094226",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-29 18:04:25"
+  },
+  {
+    "serial_number": "1322620094429",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-10 20:09:26"
+  },
+  {
+    "serial_number": "1322620094442",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-14 22:40:29"
+  },
+  {
+    "serial_number": "1322620094489",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-26 14:51:10"
+  },
+  {
+    "serial_number": "1322620094541",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-26 15:24:55"
+  },
+  {
+    "serial_number": "1322620094567",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-18 14:22:34"
+  },
+  {
+    "serial_number": "1322620094736",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-06-26 17:46:16"
+  },
+  {
+    "serial_number": "1322620094854",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-02-07 14:58:21"
+  },
+  {
+    "serial_number": "1322620095061",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-09 10:20:33"
+  },
+  {
+    "serial_number": "1322620095197",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-02 12:31:32"
+  },
+  {
+    "serial_number": "1322620095235",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2024-10-02 16:16:35"
+  },
+  {
+    "serial_number": "1322620095421",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-19 18:41:13"
+  },
+  {
+    "serial_number": "1322620095600",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-05-08 16:48:02"
+  },
+  {
+    "serial_number": "1322620095605",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-05-23 19:23:25"
+  },
+  {
+    "serial_number": "1322620095708",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-09 14:20:23"
+  },
+  {
+    "serial_number": "1322620095766",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-04-22 09:39:24"
+  },
+  {
+    "serial_number": "1322621029819",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-07-07 16:42:33"
+  },
+  {
+    "serial_number": "1322621030161",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-07 11:36:49"
+  },
+  {
+    "serial_number": "1322621030647",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-03-25 01:35:43"
+  },
+  {
+    "serial_number": "1322621043286",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-02-07 12:20:50"
+  },
+  {
+    "serial_number": "1322621043686",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-05-14 00:40:16"
+  },
+  {
+    "serial_number": "1322621043812",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-21 14:32:28"
+  },
+  {
+    "serial_number": "1322621043893",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-24 11:43:31"
+  },
+  {
+    "serial_number": "1322621142361",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-04 00:59:32"
+  },
+  {
+    "serial_number": "1322621142545",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-11 11:56:46"
+  },
+  {
+    "serial_number": "1322621142863",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 16:27:23"
+  },
+  {
+    "serial_number": "1322621143053",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-26 09:30:50"
+  },
+  {
+    "serial_number": "1322621143139",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-08 14:09:02"
+  },
+  {
+    "serial_number": "1322621143299",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-05-13 18:19:25"
+  },
+  {
+    "serial_number": "1322621143485",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-20 23:36:00"
+  },
+  {
+    "serial_number": "1322621144665",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-22 12:42:48"
+  },
+  {
+    "serial_number": "1322622008001",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-03-04 20:40:21"
+  },
+  {
+    "serial_number": "1322622008037",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-01 14:20:31"
+  },
+  {
+    "serial_number": "1322622008597",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-05-02 11:16:40"
+  },
+  {
+    "serial_number": "1322622009240",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-07-07 15:42:59"
+  },
+  {
+    "serial_number": "1322622010059",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-05-29 13:51:56"
+  },
+  {
+    "serial_number": "1322622023227",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-07-03 17:57:22"
+  },
+  {
+    "serial_number": "1322622023880",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-01-17 19:12:47"
+  },
+  {
+    "serial_number": "1322622034566",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 17:27:30"
+  },
+  {
+    "serial_number": "1322622035503",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2024-09-12 10:47:22"
+  },
+  {
+    "serial_number": "1322622035554",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-03 14:11:31"
+  },
+  {
+    "serial_number": "1322622035695",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-05 14:14:28"
+  },
+  {
+    "serial_number": "1322622036586",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-06-13 19:52:45"
+  },
+  {
+    "serial_number": "1322622036738",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-31 12:27:37"
+  },
+  {
+    "serial_number": "1322622038571",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-03-13 16:53:09"
+  },
+  {
+    "serial_number": "1322622038928",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-08 18:07:57"
+  },
+  {
+    "serial_number": "1322622053289",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-31 20:30:51"
+  },
+  {
+    "serial_number": "1322622054292",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-20 21:46:10"
+  },
+  {
+    "serial_number": "1322622054374",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-31 03:25:26"
+  },
+  {
+    "serial_number": "1322622079344",
+    "part_number": "692-2G510-0210-0R2",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-06-04 15:25:05"
+  },
+  {
+    "serial_number": "1322622084779",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-03-25 15:05:30"
+  },
+  {
+    "serial_number": "1322720020239",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-07 09:15:40"
+  },
+  {
+    "serial_number": "1322720020696",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-25 12:01:40"
+  },
+  {
+    "serial_number": "1322720020789",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-14 16:56:26"
+  },
+  {
+    "serial_number": "1322720021067",
+    "part_number": "692-2G506-0200-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-10 21:40:24"
+  },
+  {
+    "serial_number": "1322721004559",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-05-22 16:39:26"
+  },
+  {
+    "serial_number": "1322721004873",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-04-08 09:45:17"
+  },
+  {
+    "serial_number": "1322721005321",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-08 15:51:31"
+  },
+  {
+    "serial_number": "1322721017461",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "VI2_REPAIR",
+    "workstation_prefix": "VI2",
+    "history_station_start_time": "2025-04-30 08:20:00"
+  },
+  {
+    "serial_number": "1322721024998",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "VI1_REPAIR",
+    "workstation_prefix": "VI1",
+    "history_station_start_time": "2025-05-13 15:36:03"
+  },
+  {
+    "serial_number": "1322721025011",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-04-01 22:09:52"
+  },
+  {
+    "serial_number": "1322721066663",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-23 11:56:27"
+  },
+  {
+    "serial_number": "1322721066835",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-06-06 00:12:30"
+  },
+  {
+    "serial_number": "1322721067014",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "OQA_REPAIR",
+    "workstation_prefix": "OQA",
+    "history_station_start_time": "2025-07-07 07:47:15"
+  },
+  {
+    "serial_number": "1322721067053",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FPF_REPAIR",
+    "workstation_prefix": "FPF",
+    "history_station_start_time": "2025-03-13 13:46:52"
+  },
+  {
+    "serial_number": "1322721074606",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-12 15:49:58"
+  },
+  {
+    "serial_number": "1322721076019",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-07-03 18:39:38"
+  },
+  {
+    "serial_number": "1322721076237",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-05-22 17:45:30"
+  },
+  {
+    "serial_number": "1322721076386",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FCT_REPAIR",
+    "workstation_prefix": "FCT",
+    "history_station_start_time": "2025-06-04 08:52:41"
+  },
+  {
+    "serial_number": "1322722016373",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FQC_REPAIR",
+    "workstation_prefix": "FQC",
+    "history_station_start_time": "2025-07-01 16:47:43"
+  },
+  {
+    "serial_number": "1322722016520",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-01-02 18:43:49"
+  },
+  {
+    "serial_number": "1322722016886",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-28 15:38:52"
+  },
+  {
+    "serial_number": "1322722017372",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-05-07 08:35:39"
+  },
+  {
+    "serial_number": "1322722017377",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2024-12-26 23:09:20"
+  },
+  {
+    "serial_number": "1322722017411",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2025-04-07 15:36:01"
+  },
+  {
+    "serial_number": "1322722017422",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FLA_REPAIR",
+    "workstation_prefix": "FLA",
+    "history_station_start_time": "2024-12-04 09:52:25"
+  },
+  {
+    "serial_number": "1322722017541",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "BAT_REPAIR",
+    "workstation_prefix": "BAT",
+    "history_station_start_time": "2025-03-25 08:41:34"
+  },
+  {
+    "serial_number": "1322722017969",
+    "part_number": "692-2G506-0210-0R6",
+    "workstation_name": "FT_REPAIR",
+    "workstation_prefix": "FT",
+    "history_station_start_time": "2025-01-16 11:05:20"
+  }
+]

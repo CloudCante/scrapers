@@ -1,0 +1,659 @@
+Serial Number,Part Number,Error Code,Error Description,Last Station Known
+"1651622024169","920-23487-2531-0R0","111008006_003-012-1-000000000363","Row remapping failed","PT2_REPAIR"
+"1651622024171","920-23487-2531-0R0","981600","找不到设备/显卡(Device/board not recognized)-Redstone being shipped for repair","FCT_REPAIR"
+"1651623000518","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9675447", waiting until "load"[22m
+","FCT_REPAIR"
+"1651623000972","692-2G520-0200-5R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","CHIFLASH_REPAIR"
+"1651623001430","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651623001648","692-2G520-0200-5R0","EC143","PCI Express bus error","BAT_REPAIR"
+"1651623001723","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651623001935","692-2G520-0200-5R0","EC143","PCI Express bus error","PHT_REPAIR"
+"1651623002386","692-2G520-0200-5R0","EC140","NvLink bus error","FCT_REPAIR"
+"1651623002554","692-2G520-0200-5R0","EC143","PCI Express bus error","PHT_REPAIR"
+"1651623003125","692-2G520-0200-5R0","EC281","Temperature above specified limit-Top Level (recipe_sample) > BAT ERROR: Hotspot offset temp (19.27degC) is greater than allowed (19.00degC)","BAT_REPAIR"
+"1651623004174","692-2G520-0200-5R0","EC316","ECC detected a correctable error in FB","BAT_REPAIR"
+"1651623004423","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9717089", waiting until "load"[22m
+","BAT_REPAIR"
+"1651623005272","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651623014940","692-2G520-0221-5R0","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651623014945","692-2G520-0221-5R0","Error","Processing failed: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+","CHIFLASH_REPAIR"
+"1651623015111","692-2G520-0221-5R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","CHIFLASH_REPAIR"
+"1651623015908","692-2G520-0200-5R0","981600","找不到设备/显卡(Device/board not recognized)-It cannot read serial number.","CHIFLASH_REPAIR"
+"1651623017052","692-2G520-0200-5R0","EC097","unexpected device interrupts","FCT_REPAIR"
+"1651623018283","692-2G520-0200-5R0","158001001_na","PHT(MODS_PHT(test-failed))","PHT_REPAIR"
+"1651623018591","692-2G520-0200-5R0","EC539","NVRM Generic falcon error","FCT_REPAIR"
+"1651623019292","692-2G520-0200-5R0","981600","找不到设备/显卡(Device/board not recognized)-SN FAIL","CHIFLASH_REPAIR"
+"1651623020115","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651624019525","692-2G520-0200-5R0","EC220","pci device not found","BAT_REPAIR"
+"1651624019764","692-2G520-0200-5R0","020000518288","Power is below specified limit","BAT_REPAIR"
+"1651624021084","692-2G520-0200-5R0","EC534","MODS NOT REPORT ANY EC","PHT_REPAIR"
+"1651624023496","692-2G520-0200-500","Error","Processing failed: page.waitForTimeout: Target page, context or browser has been closed","PHT_REPAIR"
+"1651624023888","692-2G520-0200-500","EC210","Environment exception occurred, IST testing could not complete","IST_REPAIR"
+"1651624024497","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","PHT_REPAIR"
+"1651624024857","692-2G520-0200-500","020025127_na","vendorID-not-match","FLA_REPAIR"
+"1651624025412","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.686e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.662e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651624030722","692-2G520-0200-5R0","016033006_na","CEC_ATTEST(non-zero-exit-code)","BAT_REPAIR"
+"1651624030905","692-2G520-0200-5R0","016033006_na","CEC_ATTEST(non-zero-exit-code)","BAT_REPAIR"
+"1651624034209","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9578394", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651624036195","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651624036307","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651624036398","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651624041242","692-2G506-0210-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9627917", waiting until "load"[22m
+","BAT_REPAIR"
+"1651624052266","692-2G520-0221-5R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651624056239","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651624057605","692-2G520-0200-5R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651624066352","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651624066873","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651624067420","692-2G520-0200-5R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651624067537","692-2G520-0200-5R0","016033006_na","CEC_ATTEST(non-zero-exit-code)","BAT_REPAIR"
+"1651624068110","692-2G520-0200-5R0","EC281","Temperature above specified limit","BAT_REPAIR"
+"1651624097880","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9668891", waiting until "load"[22m
+","BAT_REPAIR"
+"1651722008074","692-2G506-0210-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1651722008680","692-2G506-0210-0R6","013015001_na","OQA(test-failed)","OQA_REPAIR"
+"1651722009694","692-2G506-0210-0R6","EC199","PHT(timeout)","BAT_REPAIR"
+"1651722012940","692-2G506-0210-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1651723008428","692-2G520-0221-5R0","EC233","bad NVIDIA chip","IST_REPAIR"
+"1651723009152","692-2G520-0221-5R0","EC143","PCI Express bus error","BAT_REPAIR"
+"1651723010687","692-2G520-0221-5R0","Error","Processing failed: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+","CHIFLASH_REPAIR"
+"1651724066208","692-2G506-0210-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651822015215","692-2G506-0210-0R6","EC272","FCT1(test-failed)","FCT_REPAIR"
+"1651822016233","692-2G506-0210-0R6","EC320","","BAT_REPAIR"
+"1651822017032","692-2G506-0210-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9521738", waiting until "load"[22m
+","FCT_REPAIR"
+"1651822017678","692-2G506-0210-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651822017849","692-2G506-0210-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651822018070","692-2G506-0210-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FLA_REPAIR"
+"1651822018159","692-2G506-0210-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","VI2_REPAIR"
+"1651823008055","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651823102596","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651823102881","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","Assembley_REPAIR"
+"1651823105068","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824043613","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","CHIFLASH_REPAIR"
+"1651824043635","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9712129", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824043665","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-SN# FAIL","CHIFLASH_REPAIR"
+"1651824043724","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651824043918","692-2G520-0200-5R0","Error","Processing failed: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+","PHT_REPAIR"
+"1651824044397","692-2G520-0200-500","EC014","bandwidth out of range","FCT_REPAIR"
+"1651824044428","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FQC_REPAIR"
+"1651824044640","692-2G520-0200-500","EC140","NvLink bus error","PHT_REPAIR"
+"1651824044776","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824044800","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9712144", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824044867","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn fail","CHIFLASH_REPAIR"
+"1651824044869","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824044874","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651824045068","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9712205", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824045289","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9719367", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824045435","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824045447","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-can't read serial number","CHIFLASH_REPAIR"
+"1651824045595","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.440e-05) is higher than allowed (7.200e-05)","BAT_REPAIR"
+"1651824045635","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651824045640","692-2G520-0200-500","EC143","PCI Express bus error","FPF_REPAIR"
+"1651824045646","692-2G520-0200-500","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","PHT_REPAIR"
+"1651824045666","692-2G520-0200-5R0","EC272","Read parameter differs from expected","FCT_REPAIR"
+"1651824045858","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-can't read serial number","CHIFLASH_REPAIR"
+"1651824045991","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.685e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.526e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651824046029","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824046042","692-2G520-0200-500","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","CHIFLASH_REPAIR"
+"1651824046203","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651824046238","692-2G520-0200-500","EC665","wrong number of PCI express lanes detected","BAT_REPAIR"
+"1651824046276","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651824046328","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-It cannot read serial number","CHIFLASH_REPAIR"
+"1651824046378","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824046577","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824046608","692-2G520-0200-5R0","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651824046711","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824046801","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824046803","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824046829","692-2G520-0200-500","EC603","NVRM timeout","PHT_REPAIR"
+"1651824046946","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824046948","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9712362", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651824046995","692-2G520-0200-500","EC272","Read parameter differs from expected","FCT_REPAIR"
+"1651824047000","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824047009","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824047062","692-2G520-0200-500","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-damged fins","VI2_REPAIR"
+"1651824048153","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824048214","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651824048276","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651824048325","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824048376","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","IST_REPAIR"
+"1651824048420","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9712286", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824048514","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824048563","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9712350", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824048565","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824048585","692-2G520-0200-500","EC210","Environment exception occurred, IST testing could not complete","IST_REPAIR"
+"1651824048630","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9634798", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824048714","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651824048763","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824048789","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9729020", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824048801","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651824049048","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651824049097","692-2G520-0200-500","020000518281","PHT(MODS_PHT(test-failed))","PHT_REPAIR"
+"1651824049128","692-2G520-0200-5R0","EC143","PCI Express bus error","BAT_REPAIR"
+"1651824049170","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824049187","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824049261","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651824049392","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824049484","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-can't read sn","CHIFLASH_REPAIR"
+"1651824049509","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824049512","692-2G520-0200-5R0","EC281","Temperature above specified limit","PHT_REPAIR"
+"1651824049525","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651824049556","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651824049592","692-2G520-0200-5R0","EC281","Temperature above specified limit-Top Level (recipe_sample) > BAT ERROR: Hotspot offset temp (20.97degC) is greater than allowed (19.00degC)","BAT_REPAIR"
+"1651824049612","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","PHT_REPAIR"
+"1651824049622","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651824049670","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9712372", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824049692","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824049717","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824049771","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824049786","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651824049848","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824049918","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824049951","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651824050052","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824050065","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.522e-05) is higher than allowed (7.200e-05)","BAT_REPAIR"
+"1651824050098","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651824050144","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651824050145","692-2G520-0200-500","EC281","Temperature above specified limit","PHT_REPAIR"
+"1651824050206","692-2G520-0200-500","EC281","Temperature above specified limit-Top Level (recipe_sample) > BAT ERROR: Hotspot offset temp (20.56degC) is greater than allowed (19.00degC)","BAT_REPAIR"
+"1651824050215","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-CANT READ SN","CHIFLASH_REPAIR"
+"1651824050237","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824050239","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651824050260","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.839e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.962e-05) is higher than allowed (8.500e-05),Top Level (recipe_sample) > BAT ERROR: Hotspot offset temp (19.04degC) is greater than allowed (19.00degC)","BAT_REPAIR"
+"1651824050301","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824050379","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651824050415","692-2G520-0200-500","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","FPF_REPAIR"
+"1651824050417","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824050437","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9717300", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824050440","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651824050472","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651824050517","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651824050584","692-2G520-0200-5R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651922019530","692-2G506-0210-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651922020626","692-2G506-0210-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651922020972","692-2G506-0210-0R6","Error","Processing failed: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+","BAT_REPAIR"
+"1651922021330","692-2G506-0210-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9512251", waiting until "load"[22m
+","BAT_REPAIR"
+"1651922022067","692-2G506-0210-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FCT_REPAIR"
+"1651922022196","692-2G506-0210-0R6","016014014_na","PHT(timeout)","BAT_REPAIR"
+"1651923006464","692-2G520-0221-5R0","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651923007276","692-2G520-0221-5R0","EC143","PCI Express bus error","BAT_REPAIR"
+"1651923008768","692-2G520-0221-5R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1651923008836","692-2G520-0221-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9682497", waiting until "load"[22m
+","BAT_REPAIR"
+"1651923010193","692-2G520-0221-5R0","EC143","PCI Express bus error","FCT_REPAIR"
+"1651923014905","692-2G520-0221-5R0","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651923015134","692-2G520-0221-5R0","981600","找不到设备/显卡(Device/board not recognized)-can't read serial number","CHIFLASH_REPAIR"
+"1651923015968","692-2G520-0221-5R0","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924037250","692-2G520-0200-5R0","EC143","","BIT_REPAIR"
+"1651924037480","692-2G520-0200-5R0","981600","找不到设备/显卡(Device/board not recognized)-can't read sn","CHIFLASH_REPAIR"
+"1651924040668","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9593619", waiting until "load"[22m
+","BAT_REPAIR"
+"1651924040976","692-2G520-0200-5R0","EC288","","BAT_REPAIR"
+"1651924048270","692-2G520-0200-5R0","EC281","Temperature above specified limit-Top Level (recipe_sample) > BAT ERROR: Hotspot offset temp (21.87degC) is greater than allowed (19.00degC)","BAT_REPAIR"
+"1651924051889","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.301e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.651e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651924051893","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924052071","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052150","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924052220","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052362","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.455e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.543e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651924052387","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651924052398","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052410","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052411","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924052451","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052578","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924052580","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651924052584","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924052641","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9685617", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651924052665","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924052763","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651924052814","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052876","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9711685", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924052881","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052891","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924052897","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651924052916","692-2G520-0200-500","EC143","PCI Express bus error","BIT_REPAIR"
+"1651924052919","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924052940","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FLA_REPAIR"
+"1651924052969","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053003","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924053005","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-It cannot read serial number.","CHIFLASH_REPAIR"
+"1651924053009","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053053","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924053063","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651924053068","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","PHT_REPAIR"
+"1651924053073","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924053104","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651924053111","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924053113","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9689423", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924053130","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651924053261","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053274","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053299","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651924053329","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053336","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053341","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924053344","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924053346","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","CHIFLASH_REPAIR"
+"1651924053354","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053357","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053360","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924053377","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9685636", waiting until "load"[22m
+","BAT_REPAIR"
+"1651924053379","692-2G520-0200-500","EC014","bandwidth out of range","FCT_REPAIR"
+"1651924053381","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053385","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924053388","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053402","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924053409","692-2G520-0200-500","020025127_na","vendorID-not-match","FLA_REPAIR"
+"1651924053436","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053442","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053447","692-2G520-0200-500","EC210","Environment exception occurred, IST testing could not complete","IST_REPAIR"
+"1651924053448","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053451","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053453","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.950e-05) is higher than allowed (8.500e-05),Top Level (recipe_sample) > BAT ERROR: Hotspot offset temp (26.83degC) is greater than allowed (19.00degC)","BAT_REPAIR"
+"1651924053468","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053481","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924053515","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651924053516","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651924053537","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053546","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9711652", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924053562","692-2G520-0200-5R0","EC220","pci device not found","BAT_REPAIR"
+"1651924053568","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053581","692-2G520-0200-5R0","EC288","","BAT_REPAIR"
+"1651924053717","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651924053723","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053733","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924053735","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053744","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053749","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053752","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924053770","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053773","692-2G520-0200-500","EC773","Data/buffer mismatch with expected","BAT_REPAIR"
+"1651924053779","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053784","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","CHIFLASH_REPAIR"
+"1651924053798","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053809","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924053811","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053819","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","CHIFLASH_REPAIR"
+"1651924053820","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.634e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.939e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651924053824","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053829","692-2G520-0200-500","EC603","NvLink.GetErrorCounts NVRM timeout [4.064 seconds]","BIT_REPAIR"
+"1651924053844","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053869","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924053895","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-Can't read serial number","CHIFLASH_REPAIR"
+"1651924053900","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924053928","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.704e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.902e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651924053996","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924054022","692-2G520-0200-5R0","EC272","Read parameter differs from expected","FCT_REPAIR"
+"1651924054034","965-2G520-0900-001","EC281","Temperature above specified limit-Top Level (recipe_sample) > BAT ERROR: Hotspot offset temp (23.30degC) is greater than allowed (19.00degC)","BAT_REPAIR"
+"1651924054038","692-2G520-0200-500","EC143","PCI Express bus error","FCT_REPAIR"
+"1651924054043","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054045","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651924054046","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054073","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054103","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054133","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.266e-05) is higher than allowed (7.200e-05)","BAT_REPAIR"
+"1651924054140","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054141","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924054153","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054155","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924054171","692-2G520-0200-5R0","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924054174","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054175","692-2G520-0200-500","020000518288","PHT(MODS_PHT(test-failed))","PHT_REPAIR"
+"1651924054178","692-2G520-0200-5R0","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924054181","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924054183","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054254","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924054260","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (8.206e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.707e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651924054261","965-2G520-6300-001","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651924054264","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054267","692-2G520-0200-500","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-component broken","DISASSEMBLY_REPAIR"
+"1651924054277","965-2G520-6300-001","EC281","Temperature above specified limit","BAT_REPAIR"
+"1651924054295","692-2G520-0200-000","9857E0","PCB弯曲/扭曲/破损(PCB Bent / twisted / damaged)-side dent","BAT_REPAIR"
+"1651924054299","692-2G520-0200-500","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924054306","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924054307","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054312","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651924054316","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-CANT READ SN","CHIFLASH_REPAIR"
+"1651924054317","692-2G520-0200-5R0","981600","找不到设备/显卡(Device/board not recognized)-Can't read SN #","CHIFLASH_REPAIR"
+"1651924054318","692-2G520-0200-5R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9630839", waiting until "load"[22m
+","PHT_REPAIR"
+"1651924054324","692-2G520-0200-500","EC534","MODS NOT REPORT ANY EC","PHT_REPAIR"
+"1651924054330","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054360","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054382","692-2G520-0200-500","EC143","PCI Express bus error","FCT_REPAIR"
+"1651924054386","692-2G520-0200-500","EC288","Power is below specified limit","BAT_REPAIR"
+"1651924054390","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054391","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924054399","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651924054432","692-2G520-0200-5R0","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924054437","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-SN# FAIL","CHIFLASH_REPAIR"
+"1651924054448","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054451","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651924054452","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","CHIFLASH_REPAIR"
+"1651924054455","692-2G520-0200-500","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1651924054460","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651924054484","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.530e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651924054493","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","PHT_REPAIR"
+"1651924054496","692-2G520-0200-500","EC534","MODS NOT REPORT ANY EC","PHT_REPAIR"
+"1651924054515","692-2G520-0200-5R0","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924054517","692-2G520-0200-5R0","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054531","692-2G520-0200-500","EC143","PCI Express bus error","BAT_REPAIR"
+"1651924054536","692-2G520-0200-500","981600","找不到设备/显卡(Device/board not recognized)-can't read serial number","CHIFLASH_REPAIR"
+"1651924054553","692-2G520-0200-500","EC316","ECC detected a correctable error in FB","PHT_REPAIR"
+"1651924054562","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054685","692-2G520-0200-500","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1651924054689","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054697","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054717","692-2G520-0200-500","EC143","PCI Express bus error","PHT_REPAIR"
+"1651924054721","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054725","692-2G520-0200-500","EC445","Thermal resistance is too high-Top Level (recipe_sample) > BAT Monitor 0 (GPU_AVG, INPUT_TOTAL_BOARD2) R value (7.676e-05) is higher than allowed (7.200e-05),Top Level (recipe_sample) > BAT Monitor 1 (GPU_OFFSET_MAX, INPUT_TOTAL_BOARD2) R value (8.878e-05) is higher than allowed (8.500e-05)","BAT_REPAIR"
+"1651924054787","692-2G520-0200-500","EC288","Power is below specified limit","PHT_REPAIR"
+"1651924054791","692-2G520-0200-5R0","EC139","Acceptable temperature limits exceeded or the thermal sensor is broken or miscalibrated","BAT_REPAIR"
+"1651924054792","692-2G520-0200-500","Error","Processing failed: page.waitForTimeout: Target page, context or browser has been closed","PHT_REPAIR"

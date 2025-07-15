@@ -1,0 +1,676 @@
+Serial Number,Part Number,Error Code,Error Description,Last Station Known
+"1322022063079","692-2G510-0210-0R2","510000632140","FCT1(test-failed)","FCT_REPAIR"
+"1322022077826","692-2G510-0210-0R2","981600","找不到设备/显卡(Device/board not recognized)-SN# FAIL","FLA_REPAIR"
+"1322022078321","692-2G510-0210-0R2","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-fail","FI_REPAIR"
+"1322022078853","692-2G510-0210-0R2","EC665","OQA(test-failed)","OQA_REPAIR"
+"1322022078860","692-2G510-0210-0R2","EC540","BAT(test-failed)","BAT_REPAIR"
+"1322022078903","692-2G510-0210-0R2","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322022079463","692-2G510-0210-0R2","Unknown","Unknown","FLA_REPAIR"
+"1322022079537","692-2G510-0210-0R2","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322022079590","692-2G510-0210-0R2","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322120054173","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-can't read sn #","FLA_REPAIR"
+"1322120054261","692-2G506-0200-0R6","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322120054432","692-2G506-0200-0R6","EC272","FCT1(test-failed)","FCT_REPAIR"
+"1322120054451","692-2G506-0200-0R6","EC665","FCT1(test-failed)","FCT_REPAIR"
+"1322120054501","692-2G506-0200-0R6","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322120054530","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9446755", waiting until "load"[22m
+","FPF_REPAIR"
+"1322120054721","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9707986", waiting until "load"[22m
+","VI1_REPAIR"
+"1322120054940","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FCT_REPAIR"
+"1322120054951","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322120054985","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","VI1_REPAIR"
+"1322120055346","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1322120055530","692-2G506-0200-0R6","016014001_na","PHT(test-failed)","BAT_REPAIR"
+"1322120055533","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FQC_REPAIR"
+"1322120055541","692-2G506-0200-0R6","EC077","","FCT_REPAIR"
+"1322120055651","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322120055760","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-bottom pin housing damage","FQC_REPAIR"
+"1322120055876","692-2G506-0200-0R6","EC200","BAT(test-failed)","BAT_REPAIR"
+"1322120056063","692-2G506-0200-0R6","EC077","BAT(test-failed)","BAT_REPAIR"
+"1322120056129","692-2G506-0200-0R6","510000020011","FCT1(test-failed)","FCT_REPAIR"
+"1322120056386","692-2G506-0200-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322120056452","692-2G506-0200-0R6","016014001_na","PHT(test-failed)","BAT_REPAIR"
+"1322120065685","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BIT_REPAIR"
+"1322120065702","692-2G506-0200-0R6","EC143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322120065732","692-2G506-0200-0R6","Error","Processing failed: page.waitForTimeout: Target page, context or browser has been closed","BAT_REPAIR"
+"1322120065823","692-2G506-0200-0R6","Error","Processing failed: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('[name="ppid"]') to be visible[22m
+","FQC_REPAIR"
+"1322120065944","692-2G506-0200-0R6","Error","Processing failed: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('[name="ppid"]') to be visible[22m
+","VI2_REPAIR"
+"1322120066041","692-2G506-0200-0R6","Error","Processing failed: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('[name="ppid"]') to be visible[22m
+","FQC_REPAIR"
+"1322120066053","692-2G506-0200-0R6","Error","Processing failed: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('[name="ppid"]') to be visible[22m
+","BAT_REPAIR"
+"1322120066148","692-2G506-0200-0R6","Error","Processing failed: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('[name="ppid"]') to be visible[22m
+","FPF_REPAIR"
+"1322120066399","692-2G506-0200-0R6","Error","Processing failed: page.waitForSelector: Timeout 20000ms exceeded.
+Call log:
+[2m  - waiting for locator('[name="ppid"]') to be visible[22m
+","VI1_REPAIR"
+"1322120066410","692-2G506-0200-0R6","Error","Processing failed: page.waitForTimeout: Target page, context or browser has been closed","VI1_REPAIR"
+"1322120066600","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-fail","FQC_REPAIR"
+"1322120066820","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-fail","FQC_REPAIR"
+"1322120076146","692-2G506-0200-0R6","EC011","FCT1(test-failed)","FCT_REPAIR"
+"1322120076367","692-2G506-0200-0R6","9857E0","PCB弯曲/扭曲/破损(PCB Bent / twisted / damaged)-Bent Pins","VI2_REPAIR"
+"1322120076660","692-2G506-0200-0R6","EC273","FCT2(test-failed)","FCT_REPAIR"
+"1322120076768","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-loose buckles","VI1_REPAIR"
+"1322120076902","692-2G506-0200-0R6","020025006_na","SMB(non-zero-exit-code)","FLA_REPAIR"
+"1322120077065","692-2G506-0200-0R6","9852E0","脏污 - PCB(Dirty item - PCB)-corrosion","VI2_REPAIR"
+"1322120077314","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","BAT_REPAIR"
+"1322120077330","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1322120077614","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9699613", waiting until "load"[22m
+","VI1_REPAIR"
+"1322120077700","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322120077762","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FCT_REPAIR"
+"1322120077871","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322120078296","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","VI2_REPAIR"
+"1322120078724","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FLA_REPAIR"
+"1322120078860","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BIT_REPAIR"
+"1322120078870","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9673522", waiting until "load"[22m
+","VI1_REPAIR"
+"1322120078938","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322120079061","692-2G506-0200-0R6","EC140","PHT(test-failed)","BAT_REPAIR"
+"1322120079192","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9705224", waiting until "load"[22m
+","VI1_REPAIR"
+"1322120079379","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322121009097","692-2G506-0210-0R6","EC143","","FCT_REPAIR"
+"1322121009594","692-2G506-0210-0R6","981600","找不到设备/显卡(Device/board not recognized)-Can't read SN # fail","FLA_REPAIR"
+"1322121010412","692-2G506-0210-0R6","020025127_na","vendorID-not-match","FLA_REPAIR"
+"1322121015333","692-2G506-0210-0R6","EC140","PHT(test-failed)","BAT_REPAIR"
+"1322121037708","692-2G506-0210-0R6","EC200","","BAT_REPAIR"
+"1322122012552","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122012760","692-2G510-0200-0R0","EC376","FCT1(test-failed)","FCT_REPAIR"
+"1322122012774","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122013227","692-2G510-0200-0R0","EC376","FCT1(test-failed)","FCT_REPAIR"
+"1322122013599","692-2G510-0200-0R0","EC376","","FCT_REPAIR"
+"1322122013736","692-2G510-0200-0R0","EC143","FCT2(test-failed)","FCT_REPAIR"
+"1322122013911","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9539396", waiting until "load"[22m
+","FPF_REPAIR"
+"1322122013970","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322122035325","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FPF_REPAIR"
+"1322122035342","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322122035394","692-2G510-0200-0R0","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","BAT_REPAIR"
+"1322122035416","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9689518", waiting until "load"[22m
+","FCT_REPAIR"
+"1322122035449","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BIT_REPAIR"
+"1322122035463","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FQC_REPAIR"
+"1322122035596","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9688491", waiting until "load"[22m
+","FPF_REPAIR"
+"1322122035637","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BIT_REPAIR"
+"1322122035652","692-2G510-0200-0R0","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-Bent pins","VI1_REPAIR"
+"1322122035882","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122035914","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9657791", waiting until "load"[22m
+","FLA_REPAIR"
+"1322122035994","692-2G510-0200-0R0","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-buckle needs to be fixed","FQC_REPAIR"
+"1322122036181","692-2G510-0200-0R0","016014001_na","PHT(test-failed)","BAT_REPAIR"
+"1322122036218","692-2G510-0200-0R0","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322122036359","692-2G510-0200-0R0","000000000077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122036398","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122036447","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","VI1_REPAIR"
+"1322122036545","692-2G510-0200-0R0","Error","Processing failed: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+","FPF_REPAIR"
+"1322122036564","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122036574","692-2G510-0200-0R0","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-pin broken","FQC_REPAIR"
+"1322122036590","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FPF_REPAIR"
+"1322122036643","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122036956","692-2G510-0200-0R0","EC143","SBT1_GPU(test-failed)","FCT_REPAIR"
+"1322122037065","692-2G510-0200-0R0","EC236","BAT(test-failed)","BAT_REPAIR"
+"1322122037140","692-2G510-0200-0R0","EC229","PHT(test-failed)","BAT_REPAIR"
+"1322122037165","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122037346","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322122037390","692-2G510-0200-0R0","020025006_na","SMB(non-zero-exit-code)","FLA_REPAIR"
+"1322122037455","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322122037458","692-2G510-0200-0R0","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","FCT_REPAIR"
+"1322122037558","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122037807","692-2G510-0200-0R0","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-oily substance","VI1_REPAIR"
+"1322122038034","692-2G510-0200-0R0","000000000077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322122038222","692-2G510-0200-0R0","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","FLA_REPAIR"
+"1322220009112","692-2G506-0200-0R6","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322220009206","692-2G506-0200-0R6","EC316","FCT2(test-failed)","FCT_REPAIR"
+"1322220009221","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FLA_REPAIR"
+"1322220009302","692-2G506-0200-0R6","9857E0","PCB弯曲/扭曲/破损(PCB Bent / twisted / damaged)-bent pin","VI2_REPAIR"
+"1322220009333","692-2G506-0200-0R6","EC097","","BAT_REPAIR"
+"1322220009383","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-can't read sn","BAT_REPAIR"
+"1322220009552","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9584586", waiting until "load"[22m
+","FQC_REPAIR"
+"1322220009897","692-2G506-0200-0R6","EC773","BAT(test-failed)","BAT_REPAIR"
+"1322220010063","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","VI2_REPAIR"
+"1322220010539","692-2G506-0200-0R6","EC140","PHT(test-failed)","BAT_REPAIR"
+"1322220010657","692-2G506-0200-0R6","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","BIT_REPAIR"
+"1322220010794","692-2G506-0200-0R6","020000310140","BIT1(test-failed)","BIT_REPAIR"
+"1322220010834","692-2G506-0200-0R6","EC665","BIT1(test-failed)","BIT_REPAIR"
+"1322220010947","692-2G506-0200-0R6","EC200","FCT1(test-failed)","FCT_REPAIR"
+"1322220031617","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9711175", waiting until "load"[22m
+","BIT_REPAIR"
+"1322220031709","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9705984", waiting until "load"[22m
+","VI2_REPAIR"
+"1322220031935","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322220031954","692-2G506-0200-0R6","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","VI1_REPAIR"
+"1322220032185","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322220032353","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9668743", waiting until "load"[22m
+","BAT_REPAIR"
+"1322220032445","692-2G506-0200-0R6","000000000143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322220033015","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9638611", waiting until "load"[22m
+","BAT_REPAIR"
+"1322220033464","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322220033923","692-2G506-0200-0R6","EC288","BAT(test-failed)","BAT_REPAIR"
+"1322220034183","692-2G506-0200-0R6","EC540","BAT(timeout)","BAT_REPAIR"
+"1322220034277","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)","VI1_REPAIR"
+"1322220034312","692-2G506-0200-0R6","EC773","BAT(test-failed)","BAT_REPAIR"
+"1322220034564","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-loose buckle","VI1_REPAIR"
+"1322220075211","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-sn fail","FLA_REPAIR"
+"1322220075486","692-2G506-0200-0R6","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322220076012","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FCT_REPAIR"
+"1322220076029","692-2G506-0200-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322220076032","692-2G506-0200-0R6","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322220076272","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322220076545","692-2G506-0200-0R6","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322220076950","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/...","VI2_REPAIR"
+"1322220076996","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9517873", waiting until "load"[22m
+","BIT_REPAIR"
+"1322220077090","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9696394", waiting until "load"[22m
+","FCT_REPAIR"
+"1322220077198","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322220077212","692-2G506-0200-0R6","020000014140","OQA(timeout)","OQA_REPAIR"
+"1322220077259","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-dent, scratch and bent pins","VI1_REPAIR"
+"1322220077303","692-2G506-0200-0R6","016014001_na","","BAT_REPAIR"
+"1322220077527","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-fail","FQC_REPAIR"
+"1322220077543","692-2G506-0200-0R6","EC665","BIT1(test-failed)","BIT_REPAIR"
+"1322220077747","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FCT_REPAIR"
+"1322220078235","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FQC_REPAIR"
+"1322220078239","692-2G506-0200-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322220078390","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FPF_REPAIR"
+"1322220078397","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9699214", waiting until "load"[22m
+","FQC_REPAIR"
+"1322220078408","692-2G506-0200-0R6","Unknown","Unknown","FLA_REPAIR"
+"1322220078423","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-discoloration on fins","VI1_REPAIR"
+"1322220078654","692-2G506-0200-0R6","Unknown","Unknown","FLA_REPAIR"
+"1322220078695","692-2G506-0200-0R6","EC140","PHT(test-failed)","BAT_REPAIR"
+"1322220078728","692-2G506-0200-0R6","EC143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322221060551","692-2G506-0210-0R6","EC200","PHT(test-failed)","BAT_REPAIR"
+"1322221069054","692-2G506-0210-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-sorder touching both fins","FI_REPAIR"
+"1322222080544","692-2G510-0210-0R2","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9660734", waiting until "load"[22m
+","FCT_REPAIR"
+"1322222080876","692-2G510-0210-0R2","EC818","BIT (test-failed)","BIT_REPAIR"
+"1322222081079","692-2G510-0210-0R2","016014001_na","PHT(test-failed)","BAT_REPAIR"
+"1322222081945","692-2G510-0210-0R2","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9535627", waiting until "load"[22m
+","FCT_REPAIR"
+"1322222083133","692-2G510-0210-0R2","EC773","BAT(test-failed)","BAT_REPAIR"
+"1322222083683","692-2G510-0210-0R2","Unknown","Unknown","FLA_REPAIR"
+"1322222084847","692-2G510-0210-0R2","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","BAT_REPAIR"
+"1322222123675","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222123779","692-2G510-0200-0R0","EC444","BAT(test-failed)","BAT_REPAIR"
+"1322222123928","692-2G510-0200-0R0","EC444","BAT(test-failed)","BAT_REPAIR"
+"1322222123938","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1322222123962","692-2G510-0200-0R0","EC376","","FCT_REPAIR"
+"1322222124000","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1322222124243","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FPF_REPAIR"
+"1322222124263","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FLA_REPAIR"
+"1322222124266","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9539260", waiting until "load"[22m
+","FCT_REPAIR"
+"1322222124416","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FPF_REPAIR"
+"1322222124425","692-2G510-0200-0R0","EC376","","FCT_REPAIR"
+"1322222124452","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222124543","692-2G510-0200-0R0","020000281444","BAT(test-failed)","BAT_REPAIR"
+"1322222124568","692-2G510-0200-0R0","EC376","FCT1(test-failed)","FCT_REPAIR"
+"1322222124681","692-2G510-0200-0R0","000000000077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222124764","692-2G510-0200-0R0","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","FPF_REPAIR"
+"1322222124944","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222125106","692-2G510-0200-0R0","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-The unit fail due to bent pin.","VI2_REPAIR"
+"1322222125150","692-2G510-0200-0R0","Error","Processing failed: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+","BAT_REPAIR"
+"1322222125200","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222125233","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FLA_REPAIR"
+"1322222125338","692-2G510-0200-0R0","020025127_na","vendorID-not-match","FLA_REPAIR"
+"1322222125339","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222125590","692-2G510-0200-0R0","EC444","BAT(test-failed)","BAT_REPAIR"
+"1322222125594","692-2G510-0200-0R0","EC444","","BAT_REPAIR"
+"1322222129931","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322222130050","692-2G510-0200-0R0","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","FLA_REPAIR"
+"1322222130101","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222130163","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222130266","692-2G510-0200-0R0","EC077","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322222130273","692-2G510-0200-0R0","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-fail bent fins","FI_REPAIR"
+"1322222130299","692-2G510-0200-0R0","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-scratches, bend class B and bent pins.","VI1_REPAIR"
+"1322222130420","692-2G510-0200-0R0","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","FCT_REPAIR"
+"1322222130446","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FPF_REPAIR"
+"1322222130622","692-2G510-0200-0R0","020025006_na","SMB(non-zero-exit-code)","FLA_REPAIR"
+"1322222130681","692-2G510-0200-0R0","000000000665","PHT(test-failed)","BAT_REPAIR"
+"1322222130810","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1322222130877","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","VI2_REPAIR"
+"1322222130917","692-2G510-0200-0R0","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322222130933","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FLA_REPAIR"
+"1322222130969","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FPF_REPAIR"
+"1322222131200","692-2G510-0200-0R0","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","VI2_REPAIR"
+"1322222154442","692-2G510-0210-0R2","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322222154983","692-2G510-0210-0R2","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BIT_REPAIR"
+"1322222155113","692-2G510-0210-0R2","EC140","FCT1(test-failed)","FCT_REPAIR"
+"1322222155383","692-2G510-0210-0R2","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322222155883","692-2G510-0210-0R2","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","FLA_REPAIR"
+"1322222156017","692-2G510-0210-0R2","EC316","FCT1(test-failed)","FCT_REPAIR"
+"1322222156429","692-2G510-0210-0R2","9852E0","脏污 - PCB(Dirty item - PCB)-Corrosion on Class D and E fins.","FI_REPAIR"
+"1322222156492","692-2G510-0210-0R2","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","BAT_REPAIR"
+"1322222156817","692-2G510-0210-0R2","Unknown","Unknown","FLA_REPAIR"
+"1322222158039","692-2G510-0210-0R2","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","FLA_REPAIR"
+"1322222158335","692-2G510-0210-0R2","020023501_na","vbios-flash","FLA_REPAIR"
+"1322222174835","692-2G510-0210-0R2","EC316","FCT1(test-failed)","FCT_REPAIR"
+"1322222175285","692-2G510-0210-0R2","Error","Processing failed: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+","VI2_REPAIR"
+"1322222175542","692-2G510-0210-0R2","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322222175629","692-2G510-0210-0R2","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FLA_REPAIR"
+"1322222175682","692-2G510-0210-0R2","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322222175845","692-2G510-0210-0R2","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9304637", waiting until "load"[22m
+","BAT_REPAIR"
+"1322320013801","692-2G506-0200-0R6","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322320014004","692-2G506-0200-0R6","EC140","","BAT_REPAIR"
+"1322320014084","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","FCT_REPAIR"
+"1322320030081","692-2G506-0200-0R6","Error","Processing failed: page.content: Unable to retrieve content because the page is navigating and changing the content.","VI1_REPAIR"
+"1322320030099","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BIT_REPAIR"
+"1322320030115","692-2G506-0200-0R6","EC818","BAT(timeout)","BAT_REPAIR"
+"1322320030183","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-dirty fins","FQC_REPAIR"
+"1322320030218","692-2G506-0200-0R6","EC773","","BAT_REPAIR"
+"1322320030403","692-2G506-0200-0R6","EC077","BIT1(test-failed)","BIT_REPAIR"
+"1322320030450","692-2G506-0200-0R6","EC143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322320030504","692-2G506-0200-0R6","EC272","OQA(test-failed)","OQA_REPAIR"
+"1322320030541","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-unit has been dropped. Came in with major damage.","VI2_REPAIR"
+"1322320030572","692-2G506-0200-0R6","000000000665","FCT1(test-failed)","FCT_REPAIR"
+"1322320030574","692-2G506-0200-0R6","000000000665","OQA(test-failed)","OQA_REPAIR"
+"1322320030657","692-2G506-0200-0R6","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322320030749","692-2G506-0200-0R6","EC140","PHT(test-failed)","BAT_REPAIR"
+"1322320030759","692-2G506-0200-0R6","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322320030781","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-residue","VI1_REPAIR"
+"1322320030786","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9568520", waiting until "load"[22m
+","BAT_REPAIR"
+"1322320031234","692-2G506-0200-0R6","EC014","FCT1(test-failed)","FCT_REPAIR"
+"1322322010322","692-2G506-0210-0R6","EC229","PHT(timeout)","BAT_REPAIR"
+"1322322011771","692-2G506-0210-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322322012028","692-2G506-0210-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322322012561","692-2G506-0210-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322322039095","692-2G510-0210-0R2","9857E0","PCB弯曲/扭曲/破损(PCB Bent / twisted / damaged)-Bent Shroud","VI2_REPAIR"
+"1322322046504","692-2G506-0200-0R6","EC272","","FCT_REPAIR"
+"1322322046534","692-2G506-0200-0R6","EC143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322322046634","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322322046658","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-can't find SN#","FLA_REPAIR"
+"1322420052329","692-2G506-0200-0R6","EC665","OQA(test-failed)","OQA_REPAIR"
+"1322420052610","692-2G506-0200-0R6","EC143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322420052750","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","FLA_REPAIR"
+"1322420052837","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322420053044","692-2G506-0200-0R6","EC200","BAT(test-failed)","BAT_REPAIR"
+"1322420053121","692-2G506-0200-0R6","016007001_na","","BAT_REPAIR"
+"1322420053188","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9565279", waiting until "load"[22m
+","OQA_REPAIR"
+"1322420053311","692-2G506-0200-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322420053504","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-Bent pins","VI1_REPAIR"
+"1322420053619","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322420053849","692-2G506-0200-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322420058932","692-2G506-0200-0R6","510000020011","FCT1(test-failed)","FCT_REPAIR"
+"1322420058970","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-bent pins","VI1_REPAIR"
+"1322420058991","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9705868", waiting until "load"[22m
+","VI2_REPAIR"
+"1322420059217","692-2G506-0200-0R6","EC272","FCT1(test-failed)","FCT_REPAIR"
+"1322420059313","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9568638", waiting until "load"[22m
+","BIT_REPAIR"
+"1322420059700","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-loose buckle, scratch","VI1_REPAIR"
+"1322420059871","692-2G506-0200-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322420060082","692-2G506-0200-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322420060113","692-2G506-0200-0R6","EC273","FCT2(test-failed)","FCT_REPAIR"
+"1322420060444","692-2G506-0200-0R6","016014014_na","PHT(timeout)","BAT_REPAIR"
+"1322420060755","692-2G506-0200-0R6","EC140","PHT(test-failed)","BAT_REPAIR"
+"1322420060792","692-2G506-0200-0R6","EC539","FCT1(timeout)","FCT_REPAIR"
+"1322420060893","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","FCT_REPAIR"
+"1322420061239","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9310938", waiting until "load"[22m
+","BAT_REPAIR"
+"1322420061421","692-2G506-0200-0R6","EC077","BIT1(test-failed)","BIT_REPAIR"
+"1322420061467","692-2G506-0200-0R6","9857E0","PCB弯曲/扭曲/破损(PCB Bent / twisted / damaged)-bent pin","VI2_REPAIR"
+"1322420088191","692-2G506-0200-0R6","EC014","FCT1(test-failed)","FCT_REPAIR"
+"1322420088681","692-2G506-0200-0R6","EC143","FCT2(test-failed)","FCT_REPAIR"
+"1322420088845","692-2G506-0200-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322420089227","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9565542", waiting until "load"[22m
+","BAT_REPAIR"
+"1322420089334","692-2G506-0200-0R6","EC273","FCT2(test-failed)","FCT_REPAIR"
+"1322420089579","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-bent pin","FI_REPAIR"
+"1322420089745","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-damaged buckle","FQC_REPAIR"
+"1322420090141","692-2G506-0200-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322420090299","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-loose buckle/ scratch","VI1_REPAIR"
+"1322420090338","692-2G506-0200-0R6","EC077","BAT(test-failed)","BAT_REPAIR"
+"1322420090364","692-2G506-0200-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322420090736","692-2G506-0200-0R6","020025127_na","vendorID-not-match","FLA_REPAIR"
+"1322420090749","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-can't read serial number","FLA_REPAIR"
+"1322420090786","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-bend pin","FI_REPAIR"
+"1322420090970","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-SN FAIL","FLA_REPAIR"
+"1322420091105","692-2G506-0200-0R6","EC143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322420097260","692-2G506-0200-0R6","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322420097482","692-2G506-0200-0R6","EC603","BAT(timeout)","BAT_REPAIR"
+"1322420097684","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-MOLD ON THE SIDE","FI_REPAIR"
+"1322420097685","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9568486", waiting until "load"[22m
+","FCT_REPAIR"
+"1322420097876","692-2G506-0200-0R6","EC665","OQA(test-failed)","OQA_REPAIR"
+"1322420097933","692-2G506-0200-0R6","EC140","","BAT_REPAIR"
+"1322420097944","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-blockage on fins","VI2_REPAIR"
+"1322420098073","692-2G506-0200-0R6","EC665","BIT1(test-failed)","BIT_REPAIR"
+"1322420098241","692-2G506-0200-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322420098260","692-2G506-0200-0R6","EC665","BIT1(test-failed)","BIT_REPAIR"
+"1322420098284","692-2G506-0200-0R6","EC143","CHK_FUSE(test-failed)","FPF_REPAIR"
+"1322420098963","692-2G506-0200-0R6","016014001_na","PHT(test-failed)","BAT_REPAIR"
+"1322420099001","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-pin broken","FQC_REPAIR"
+"1322420099014","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","BAT_REPAIR"
+"1322420099027","692-2G506-0200-0R6","EC143","FCT1(test-failed)","FCT_REPAIR"
+"1322420099100","692-2G506-0200-0R6","EC272","FCT1(test-failed)","FCT_REPAIR"
+"1322420099195","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-broken buckle","FQC_REPAIR"
+"1322420099248","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-damages buckle points","VI1_REPAIR"
+"1322422004835","692-2G510-0210-0R2","016014001_na","PHT(test-failed)","BAT_REPAIR"
+"1322422005452","692-2G510-0210-0R2","EC143","PHT(test-failed)","BAT_REPAIR"
+"1322422005582","692-2G510-0210-0R2","Unknown","Unknown","FLA_REPAIR"
+"1322422007376","692-2G510-0210-0R2","020025510_na","setup-fail","FLA_REPAIR"
+"1322422065269","692-2G510-0210-0R2","981600","找不到设备/显卡(Device/board not recognized)-bad board spark when plug in","FLA_REPAIR"
+"1322422067114","692-2G510-0210-0R2","000000000665","FCT1(test-failed)","FCT_REPAIR"
+"1322422067392","692-2G510-0210-0R2","EC272","FCT1(test-failed)","FCT_REPAIR"
+"1322520104755","692-2G506-0200-0R6","EC077","FCT1(test-failed)","FCT_REPAIR"
+"1322520104986","692-2G506-0200-0R6","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322520105321","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/pctls", waiting until "load"[22m
+","VI1_REPAIR"
+"1322520105370","692-2G506-0200-0R6","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322520105462","692-2G506-0200-0R6","EC077","BIT1(test-failed)","BIT_REPAIR"
+"1322520105782","692-2G506-0200-0R6","Error","Processing failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://wareconn.com/r/Summary/survey/9708520", waiting until "load"[22m
+","FPF_REPAIR"
+"1322520105934","692-2G506-0200-0R6","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322520106141","692-2G506-0200-0R6","Error","Processing failed: elementHandle.press: Timeout 30000ms exceeded.
+Call log:
+[2m  - elementHandle.press("Enter")[22m
+","VI1_REPAIR"
+"1322520106197","692-2G506-0200-0R6","9854A0","散热器刮伤/裂纹/殘漆/破损/其他外观不良(Scratch / crack / paint / damage or other cosmetic Passive cooler)-scratch","FLA_REPAIR"
+"1322520106226","692-2G506-0200-0R6","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-fail","FI_REPAIR"
+"1322521004593","692-2G506-0200-0R6","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322521010275","692-2G506-0200-0R6","016014001_na","","BAT_REPAIR"
+"1322521010429","692-2G506-0200-0R6","EC139","OQA(test-failed)","OQA_REPAIR"
+"1322521010670","692-2G506-0200-0R6","981600","找不到设备/显卡(Device/board not recognized)-can't read serial number","FLA_REPAIR"
+"1322521010835","692-2G506-0200-0R6","9852E0","脏污 - PCB(Dirty item - PCB)-residue on fins","VI1_REPAIR"
+"1322522008111","692-2G510-0210-0R2","9854E0","PCB刮伤/裂纹/殘漆/破损/其他外观不良(PCB Scratch / crack / paint / damage or other cosmetic)-FAIL","FI_REPAIR"
+"1322522008752","692-2G510-0210-0R2","EC818","BIT (test-failed)","BIT_REPAIR"
+"1322522009808","692-2G510-0210-0R2","EC140","BAT(test-failed)","BAT_REPAIR"
+"1322522020277","692-2G510-0210-0R2","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322522021156","692-2G510-0210-0R2","EC083","BAT(test-failed)","BAT_REPAIR"
+"1322522021366","692-2G510-0210-0R2","EC272","BAT(test-failed)","BAT_REPAIR"
+"1322522022585","692-2G510-0210-0R2","Unknown","Unknown","FLA_REPAIR"
+"1322522039262","692-2G510-0210-0R2","981600","找不到设备/显卡(Device/board not recognized)-sn# fail","FLA_REPAIR"
+"1322522039354","692-2G510-0210-0R2","EC280","","BIT_REPAIR"
+"1322522039951","692-2G510-0210-0R2","EC665","PHT(test-failed)","BAT_REPAIR"
+"1322522056109","692-2G506-0210-0R6","Error","Processing failed: page.waitForTimeout: Target page, context or browser has been closed","FLA_REPAIR"
